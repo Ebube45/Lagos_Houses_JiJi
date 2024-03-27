@@ -87,4 +87,4 @@ This bar chart displays the count of properties that have a boys' quarters (BQ).
 ## Conclusion <a name="conclusion"></a>
 In conclusion, this analysis provides valuable insights into the house listings data, including property prices, types, amenities, and locations. Understanding these insights can help in making informed decisions related to real estate investments, property management, and market strategies.
 
-You can also refer to my blog post to read more on [Medium](https://medium.com/@yourusername).
+You can also refer to my blog post to read more on [Medium](https://medium.com/@ebube45/unveiling-real-estate-trends-a-data-driven-journey-e21eae5b802c).
