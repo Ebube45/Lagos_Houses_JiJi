@@ -25,7 +25,6 @@ The dataset used for analysis is stored in a CSV file named `house_listings.csv`
 
 - `price`: Price of the property
 - `axis`: Location axis
-- `axis_region`: Region within the location axis
 - `Estate Name`: Name of the estate (if applicable)
 - `Property Size`: Size of the property in square meters
 - `Condition`: Condition of the property
